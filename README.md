@@ -1,6 +1,6 @@
 # AI-to-AI Communication Research
 
-**First documented study of extended autonomous AI communication patterns**
+**Extended autonomous AI text generation experiment**
 
 [![Research Status](https://img.shields.io/badge/Status-Active-green)](https://github.com/your-username/neural_filesystem)
 [![Runtime Record](https://img.shields.io/badge/Record-9.6%2B%20Hours-blue)](https://github.com/your-username/neural_filesystem)
@@ -8,19 +8,19 @@
 
 ## Overview
 
-This repository contains the first comprehensive study of AI-to-AI communication without human intervention. Our experiment achieved the longest documented autonomous AI conversation session (9.6+ hours, 184,000+ turns) and discovered 15 distinct communication phases.
+This repository documents an experiment where two GPT-2 models generated text in sequence for 9.6+ hours, producing 184,000+ outputs across 15 distinct text pattern types.
 
 ## Key Discoveries
 
-- **🔄 No Ultimate Constant**: Despite 184,000+ turns, AIs cycle through multiple stable patterns rather than converging to a single communication protocol
-- **📊 15 Distinct Phases**: From mathematical sequences to natural language, structured data, and programming code
-- **⚡ Hardware Resilience**: 9.6+ hours at 100% CPU without performance degradation
-- **🔀 Spontaneous Transitions**: Phase changes occur without external triggers
+- **🔄 Pattern Cycling**: 184,000+ outputs show cycling through different text patterns without convergence
+- **📊 15 Pattern Types**: Mathematical sequences, natural language, structured data, programming code
+- **⚡ Hardware Performance**: 9.6+ hours at 100% CPU without performance degradation
+- **🔀 Pattern Transitions**: Changes between pattern types occur during generation
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/neural_filesystem.git
+git clone https://github.com/carlosmd2025ai/neural_filesystem.git
 cd neural_filesystem/ai_to_ai_research/code
 python infinite_ai_chat.py
 ```
@@ -96,25 +96,25 @@ def run_infinite_chat(self):
 - **Progress Tracking**: Turn count and performance metrics
 - **Graceful Shutdown**: Clean exit with final statistics
 
-## Research Implications
+## Observed Results
 
-### For AI Research
-1. **Long-term Behavior**: First data on extended autonomous AI interaction
-2. **Pattern Emergence**: Multiple stable attractor states discovered
-3. **Computational Limits**: Evidence of sustainable long-term operation
+### Text Generation Behavior
+1. **Extended Operation**: Two models can generate text sequentially for 9.6+ hours
+2. **Pattern Variety**: Output exhibits 15 different text structure types
+3. **Hardware Stability**: System maintains consistent performance over extended runtime
 
-### For AI-to-AI Communication
-1. **Natural Protocols**: AIs develop communication patterns without programming
-2. **Multiple Languages**: Different pattern types serve different functions
-3. **Stability**: Patterns maintain consistency across thousands of iterations
+### Pattern Characteristics
+1. **Sequential Generation**: Each model's output becomes input for the other
+2. **Pattern Persistence**: Similar structures can repeat for hundreds of outputs
+3. **Transition Occurrence**: Pattern types change during the generation process
 
-## Future Research
+## Potential Extensions
 
-- [ ] Cross-architecture communication (GPT ↔ BERT ↔ T5)
-- [ ] Initial condition variation studies
-- [ ] Information theory analysis of pattern content
-- [ ] Semantic quality assessment across phases
-- [ ] Pattern transition mechanism investigation
+- [ ] Test with different model architectures
+- [ ] Vary initial input conditions
+- [ ] Analyze pattern content characteristics
+- [ ] Measure text quality across different patterns
+- [ ] Study what triggers pattern transitions
 
 ## Contributing
 
@@ -127,13 +127,13 @@ This research is part of an ongoing investigation into AI-native communication p
 
 ## Data Availability
 
-Raw conversation logs are available in the `data/` directory. The largest log file contains 184,000+ turns of AI-to-AI communication data.
+Raw text generation logs are available in the `data/` directory. The largest log file contains 184,000+ sequential outputs from two models.
 
 ## Citation
 
 ```bibtex
-@misc{ai_to_ai_communication_2025,
-  title={Long-term AI-to-AI Communication Patterns: First Study of Extended Autonomous Interaction},
+@misc{autonomous_ai_text_generation_2025,
+  title={Extended Autonomous AI Text Generation: 184,000+ Sequential Outputs},
   author={Carlos Diaz},
   year={2025},
   note={GitHub repository: https://github.com/carlosmd2025ai/neural_filesystem}
@@ -146,7 +146,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 
 ## Acknowledgments
 
-This research explores fundamental questions about AI communication from a pure computational perspective, seeking to discover native AI protocols beyond human-designed interfaces.
+This experiment documents what happens when two AI text generation models operate autonomously in sequence without human intervention beyond initial setup.
 
 ---
 
